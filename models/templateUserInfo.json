@@ -1,0 +1,187 @@
+{
+  "Fecha": "29/03/2019",
+  "Hora": "11:49",
+  "Correl.Orden": "25",
+  "data": [
+    {
+      "1": [
+        {
+          "name": "R.u.t",
+          "value": "5200599-K"
+        },
+        {
+          "name": "Paciente",
+          "value": "HORMAZABAL ABARCA ADOLFO REINALDO"
+        },
+        {
+          "name": "Dirección",
+          "value": "DARDIGNAC 130"
+        },
+        {
+          "name": "Fono",
+          "value": "2-27777621"
+        },
+        {
+          "name": "Solicitante",
+          "value": "CRISTIAN CARVALLO HOLTZ"
+        },
+        {
+          "name": "Tipo Muestra",
+          "value": "SANGRE TOTAL"
+        },
+        {
+          "name": "Origen",
+          "value": "HOSPITALIZADO - 782"
+        },
+        {
+          "name": "Procedencia",
+          "value": "AMBULATORIO"
+        },
+        {
+          "name": "Sexo",
+          "value": "Masculino"
+        },
+        {
+          "name": "Id.Atención",
+          "value": "4272297"
+        },
+        {
+          "name": "Edad",
+          "value": "73 Año(s) 1 Mes(es)"
+        },
+        {
+          "name": "Fec. T. Muestra",
+          "value": "28/03/2019 00:05"
+        },
+        {
+          "name": "Recep. Muestra",
+          "value": "28/03/2019 05:21"
+        },
+        {
+          "name": "Fec. Validación",
+          "value": "28/03/2019 06:24"
+        }
+      ]
+    },
+    {
+      "2": [
+        {
+          "name": "R.u.t",
+          "value": "5200599-K"
+        },
+        {
+          "name": "Paciente",
+          "value": "HORMAZABAL ABARCA ADOLFO REINALDO"
+        },
+        {
+          "name": "Dirección",
+          "value": "DARDIGNAC 130"
+        },
+        {
+          "name": "Fono",
+          "value": "2-27777621"
+        },
+        {
+          "name": "Solicitante",
+          "value": "CRISTIAN CARVALLO HOLTZ"
+        },
+        {
+          "name": "Tipo Muestra",
+          "value": "SANGRE TOTAL"
+        },
+        {
+          "name": "Origen",
+          "value": "HOSPITALIZADO - 782"
+        },
+        {
+          "name": "Procedencia",
+          "value": "AMBULATORIO"
+        },
+        {
+          "name": "Sexo",
+          "value": "Masculino"
+        },
+        {
+          "name": "Id.Atención",
+          "value": "4272297"
+        },
+        {
+          "name": "Edad",
+          "value": "73 Año(s) 1 Mes(es)"
+        },
+        {
+          "name": "Fec. T. Muestra",
+          "value": "28/03/2019 00:05"
+        },
+        {
+          "name": "Recep. Muestra",
+          "value": "28/03/2019 05:21"
+        },
+        {
+          "name": "Fec. Validación",
+          "value": "28/03/2019 06:52"
+        }
+      ]
+    },
+    {
+      "3": [
+        {
+          "name": "R.u.t",
+          "value": "5200599-K"
+        },
+        {
+          "name": "Paciente",
+          "value": "HORMAZABAL ABARCA ADOLFO REINALDO"
+        },
+        {
+          "name": "Dirección",
+          "value": "DARDIGNAC 130"
+        },
+        {
+          "name": "Fono",
+          "value": "2-27777621"
+        },
+        {
+          "name": "Solicitante",
+          "value": "CRISTIAN CARVALLO HOLTZ"
+        },
+        {
+          "name": "Tipo Muestra",
+          "value": "SANGRE TOTAL"
+        },
+        {
+          "name": "Origen",
+          "value": "HOSPITALIZADO - 782"
+        },
+        {
+          "name": "Procedencia",
+          "value": "AMBULATORIO"
+        },
+        {
+          "name": "Sexo",
+          "value": "Masculino"
+        },
+        {
+          "name": "Id.Atención",
+          "value": "4272297"
+        },
+        {
+          "name": "Edad",
+          "value": "73 Año(s) 1 Mes(es)"
+        },
+        {
+          "name": "Fec. T. Muestra",
+          "value": "28/03/2019 00:05"
+        },
+        {
+          "name": "Recep. Muestra",
+          "value": "28/03/2019 05:21"
+        },
+        {
+          "name": "Fec. Validación",
+          "value": "28/03/2019 06:08"
+        }
+      ]
+    }
+  ]
+}

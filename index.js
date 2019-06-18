@@ -1,7 +1,9 @@
-const pdf = require('./util/utilPDF.js');
-const userInfo = require('./models/userExamInfo.json');
-const userExam = require('./models/userExamResult.json');
+const pdf = require("./util/utilPDF.js");
+const exam = require("./models/objectExam.json");
 
 //
-pdf.generatePDF(userInfo, userExam)
-console.log("Generación completa...")
+
+pdf.generatePDF(exam[0]);
+pdf.generatePDF(exam[1]);
+
+console.log("Generación completa...");

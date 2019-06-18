@@ -1,0 +1,524 @@
+[
+  {
+    "Fecha": "29/03/2019",
+    "Hora": "11:49",
+    "Correl. Orden": "25",
+    "exam": [
+      {
+        "specialist": {
+          "name": "EXAMEN EJECUTADO Y EMITIDO POR",
+          "value": "T.M. HERNANDEZ ESPINOZA FELIPE",
+          "firm": "assets/img/firma.png"
+        },
+        "userInfo": [
+          {
+            "name": "R.u.t",
+            "value": "5200599-K"
+          },
+          {
+            "name": "Paciente",
+            "value": "NELSON PENAGOS"
+          },
+          {
+            "name": "Dirección",
+            "value": "DARDIGNAC 130"
+          },
+          {
+            "name": "Fono",
+            "value": "2-27777621"
+          },
+          {
+            "name": "Solicitante",
+            "value": "CRISTIAN CARVALLO HOLTZ"
+          },
+          {
+            "name": "Tipo Muestra",
+            "value": "SANGRE TOTAL"
+          },
+          {
+            "name": "Origen",
+            "value": "HOSPITALIZADO - 782"
+          },
+          {
+            "name": "Procedencia",
+            "value": "AMBULATORIO"
+          },
+          {
+            "name": "Sexo",
+            "value": "Masculino"
+          },
+          {
+            "name": "Id.Atención",
+            "value": "4272297"
+          },
+          {
+            "name": "Edad",
+            "value": "73 Año(s) 1 Mes(es)"
+          },
+          {
+            "name": "Fec. T. Muestra",
+            "value": "28/03/2019 00:05"
+          },
+          {
+            "name": "Recep. Muestra",
+            "value": "28/03/2019 05:21"
+          },
+          {
+            "name": "Fec. Validación",
+            "value": "28/03/2019 06:24"
+          }
+        ],
+        "userExamResult": {
+          "codigo_pres": "03-02-076-80",
+          "nombre_pres": "INVESTIGACION PERFIL HEPATICO",
+          "data": [
+            {
+              "linea_formato": "10",
+              "texto_formato": "EXAMEN                    RESULTADO   UNIDAD   I. REFERENCIA      HISTORICO"
+            },
+            {
+              "linea_formato": "11",
+              "texto_formato": "____________________________________________________________"
+            },
+            {
+              "linea_formato": "14",
+              "texto_formato": "           PRUEBAS HEPATICAS  :"
+            },
+            {
+              "linea_formato": "16",
+              "texto_formato": "GOT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "17",
+              "texto_formato": "GPT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "18",
+              "texto_formato": "GGT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "19",
+              "texto_formato": "FOSFATASAS_ALCALINAS___:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "20",
+              "texto_formato": "BILIRRUBINA_TOTAL______:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "21",
+              "texto_formato": "BILIRRUBINA_DIRECTA____:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "22",
+              "texto_formato": "BILIRRUBINA_INDIRECTA__:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "24",
+              "texto_formato": "Método: Química Seca - Vitros 5600"
+            },
+            {
+              "linea_formato": "31",
+              "texto_formato": "Nota:_______________________________:_{X60}"
+            },
+            {
+              "linea_formato": "32",
+              "texto_formato": "____________________________________:_{X60}"
+            },
+            {
+              "linea_formato": "33",
+              "texto_formato": "____________________________________:_{X60}"
+            }
+          ]
+        }
+      },
+      {
+        "specialist": {
+          "name": "EXAMEN EJECUTADO Y EMITIDO POR",
+          "value": "T.M. NELSON ESPINOZA FELIPE",
+          "firm": "assets/img/firma.png"
+        },
+        "userInfo": [
+          {
+            "name": "R.u.t",
+            "value": "5200599-K"
+          },
+          {
+            "name": "Paciente",
+            "value": "NELSON PENAGOS"
+          },
+          {
+            "name": "Dirección",
+            "value": "DARDIGNAC 130"
+          },
+          {
+            "name": "Fono",
+            "value": "2-27777621"
+          },
+          {
+            "name": "Solicitante",
+            "value": "CRISTIAN CARVALLO HOLTZ"
+          },
+          {
+            "name": "Tipo Muestra",
+            "value": "SANGRE TOTAL"
+          },
+          {
+            "name": "Origen",
+            "value": "HOSPITALIZADO - 782"
+          },
+          {
+            "name": "Procedencia",
+            "value": "AMBULATORIO"
+          },
+          {
+            "name": "Sexo",
+            "value": "Masculino"
+          },
+          {
+            "name": "Id.Atención",
+            "value": "4272297"
+          },
+          {
+            "name": "Edad",
+            "value": "73 Año(s) 1 Mes(es)"
+          },
+          {
+            "name": "Fec. T. Muestra",
+            "value": "28/03/2019 00:05"
+          },
+          {
+            "name": "Recep. Muestra",
+            "value": "28/03/2019 05:21"
+          },
+          {
+            "name": "Fec. Validación",
+            "value": "28/03/2019 06:66"
+          }
+        ],
+        "userExamResult": {
+          "codigo_pres": "03-02-076-80",
+          "nombre_pres": "INVESTIGACION PERFIL HEPATICO",
+          "data": [
+            {
+              "linea_formato": "10",
+              "texto_formato": "EXAMEN                    RESULTADO   UNIDAD   I. REFERENCIA      HISTORICO"
+            },
+            {
+              "linea_formato": "11",
+              "texto_formato": "____________________________________________________________"
+            },
+            {
+              "linea_formato": "14",
+              "texto_formato": "           OTRAS HEPATICAS  :"
+            },
+            {
+              "linea_formato": "16",
+              "texto_formato": "GOT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "17",
+              "texto_formato": "GPT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "18",
+              "texto_formato": "GGT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "19",
+              "texto_formato": "FOSFATASAS_ALCALINAS___:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "20",
+              "texto_formato": "BILIRRUBINA_TOTAL______:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "21",
+              "texto_formato": "BILIRRUBINA_DIRECTA____:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "22",
+              "texto_formato": "BILIRRUBINA_INDIRECTA__:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "24",
+              "texto_formato": "Método: Química Seca - Vitros 5600"
+            },
+            {
+              "linea_formato": "31",
+              "texto_formato": "Nota:_______________________________:_{X60}"
+            },
+            {
+              "linea_formato": "32",
+              "texto_formato": "____________________________________:_{X60}"
+            },
+            {
+              "linea_formato": "33",
+              "texto_formato": "____________________________________:_{X60}"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Fecha": "29/03/2019",
+    "Hora": "11:49",
+    "Correl. Orden": "26",
+    "exam": [
+      {
+        "specialist": {
+          "name": "EXAMEN EJECUTADO Y EMITIDO POR",
+          "value": "T.M. HERNANDEZ ESPINOZA FELIPE",
+          "firm": "assets/img/firma.png"
+        },
+        "userInfo": [
+          {
+            "name": "R.u.t",
+            "value": "5200599-K"
+          },
+          {
+            "name": "Paciente",
+            "value": "HORMAZABAL ABARCA ADOLFO REINALDO"
+          },
+          {
+            "name": "Dirección",
+            "value": "DARDIGNAC 130"
+          },
+          {
+            "name": "Fono",
+            "value": "2-27777621"
+          },
+          {
+            "name": "Solicitante",
+            "value": "CRISTIAN CARVALLO HOLTZ"
+          },
+          {
+            "name": "Tipo Muestra",
+            "value": "SANGRE TOTAL"
+          },
+          {
+            "name": "Origen",
+            "value": "HOSPITALIZADO - 782"
+          },
+          {
+            "name": "Procedencia",
+            "value": "AMBULATORIO"
+          },
+          {
+            "name": "Sexo",
+            "value": "Masculino"
+          },
+          {
+            "name": "Id.Atención",
+            "value": "4272297"
+          },
+          {
+            "name": "Edad",
+            "value": "73 Año(s) 1 Mes(es)"
+          },
+          {
+            "name": "Fec. T. Muestra",
+            "value": "28/03/2019 00:05"
+          },
+          {
+            "name": "Recep. Muestra",
+            "value": "28/03/2019 05:21"
+          },
+          {
+            "name": "Fec. Validación",
+            "value": "28/03/2019 06:24"
+          }
+        ],
+        "userExamResult": {
+          "codigo_pres": "03-02-076-80",
+          "nombre_pres": "INVESTIGACION PERFIL HEPATICO",
+          "data": [
+            {
+              "linea_formato": "10",
+              "texto_formato": "EXAMEN                    RESULTADO   UNIDAD   I. REFERENCIA      HISTORICO"
+            },
+            {
+              "linea_formato": "11",
+              "texto_formato": "____________________________________________________________"
+            },
+            {
+              "linea_formato": "14",
+              "texto_formato": "           PRUEBAS HEPATICAS  :"
+            },
+            {
+              "linea_formato": "16",
+              "texto_formato": "GOT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "17",
+              "texto_formato": "GPT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "18",
+              "texto_formato": "GGT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "19",
+              "texto_formato": "FOSFATASAS_ALCALINAS___:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "20",
+              "texto_formato": "BILIRRUBINA_TOTAL______:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "21",
+              "texto_formato": "BILIRRUBINA_DIRECTA____:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "22",
+              "texto_formato": "BILIRRUBINA_INDIRECTA__:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "24",
+              "texto_formato": "Método: Química Seca - Vitros 5600"
+            },
+            {
+              "linea_formato": "31",
+              "texto_formato": "Nota:_______________________________:_{X60}"
+            },
+            {
+              "linea_formato": "32",
+              "texto_formato": "____________________________________:_{X60}"
+            },
+            {
+              "linea_formato": "33",
+              "texto_formato": "____________________________________:_{X60}"
+            }
+          ]
+        }
+      },
+      {
+        "specialist": {
+          "name": "EXAMEN EJECUTADO Y EMITIDO POR",
+          "value": "T.M. NELSON ESPINOZA FELIPE",
+          "firm": "assets/img/firma.png"
+        },
+        "userInfo": [
+          {
+            "name": "R.u.t",
+            "value": "5200599-K"
+          },
+          {
+            "name": "Paciente",
+            "value": "HORMAZABAL ABARCA ADOLFO REINALDO"
+          },
+          {
+            "name": "Dirección",
+            "value": "DARDIGNAC 130"
+          },
+          {
+            "name": "Fono",
+            "value": "2-27777621"
+          },
+          {
+            "name": "Solicitante",
+            "value": "CRISTIAN CARVALLO HOLTZ"
+          },
+          {
+            "name": "Tipo Muestra",
+            "value": "SANGRE TOTAL"
+          },
+          {
+            "name": "Origen",
+            "value": "HOSPITALIZADO - 782"
+          },
+          {
+            "name": "Procedencia",
+            "value": "AMBULATORIO"
+          },
+          {
+            "name": "Sexo",
+            "value": "Masculino"
+          },
+          {
+            "name": "Id.Atención",
+            "value": "4272297"
+          },
+          {
+            "name": "Edad",
+            "value": "73 Año(s) 1 Mes(es)"
+          },
+          {
+            "name": "Fec. T. Muestra",
+            "value": "28/03/2019 00:05"
+          },
+          {
+            "name": "Recep. Muestra",
+            "value": "28/03/2019 05:21"
+          },
+          {
+            "name": "Fec. Validación",
+            "value": "28/03/2019 06:66"
+          }
+        ],
+        "userExamResult": {
+          "codigo_pres": "03-02-076-80",
+          "nombre_pres": "INVESTIGACION PERFIL HEPATICO",
+          "data": [
+            {
+              "linea_formato": "10",
+              "texto_formato": "EXAMEN                    RESULTADO   UNIDAD   I. REFERENCIA      HISTORICO"
+            },
+            {
+              "linea_formato": "11",
+              "texto_formato": "____________________________________________________________"
+            },
+            {
+              "linea_formato": "14",
+              "texto_formato": "           OTRAS HEPATICAS  :"
+            },
+            {
+              "linea_formato": "16",
+              "texto_formato": "GOT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "17",
+              "texto_formato": "GPT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "18",
+              "texto_formato": "GGT____________________:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "19",
+              "texto_formato": "FOSFATASAS_ALCALINAS___:_{99999.9}#UI/L#"
+            },
+            {
+              "linea_formato": "20",
+              "texto_formato": "BILIRRUBINA_TOTAL______:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "21",
+              "texto_formato": "BILIRRUBINA_DIRECTA____:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "22",
+              "texto_formato": "BILIRRUBINA_INDIRECTA__:_{99999.9}#mg/dL#"
+            },
+            {
+              "linea_formato": "24",
+              "texto_formato": "Método: Química Seca - Vitros 5600"
+            },
+            {
+              "linea_formato": "31",
+              "texto_formato": "Nota:_______________________________:_{X60}"
+            },
+            {
+              "linea_formato": "32",
+              "texto_formato": "____________________________________:_{X60}"
+            },
+            {
+              "linea_formato": "33",
+              "texto_formato": "____________________________________:_{X60}"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
